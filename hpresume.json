@@ -2,18 +2,9 @@
   "basics": {
     "name": "Hong Pham",
     "label": "Cloud DevOps / Cloud Support",
-    "picture": "",
     "email": "hong.n.pham@gmail.com",
     "phone": "6032890204",
     "website": "http://hongpham.com",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -34,7 +25,7 @@
         "Interact with customer daily to help solve technical problem",
         "Provide best advises for using AWS products",
         "Meet with Product Teams to raise customer concerns",
-        "Create internal documents, tools to increase efficiency"
+        "Create internal documents to increase efficiency"
       ]
     },
     {
@@ -44,10 +35,12 @@
       "startDate": "2013-01-20",
       "endDate": "2015-06-22",
       "summary": "Provide support and monitoring for Linux system",
-      "highlights": []
+      "highlights": [
+        "Create scripts/program to automate process",
+        "Support large scale events/ changes/ incident"
+      ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Utah",
@@ -55,8 +48,6 @@
       "studyType": "Bachelor",
       "startDate": "2009-05-18",
       "endDate": "2012-12-06",
-      "gpa": "",
-      "courses": []
     },
     {
       "institution": "University of Utah",
@@ -64,26 +55,19 @@
       "studyType": "Bachelor",
       "startDate": "2009-05-18",
       "endDate": "2012-12-06",
-      "gpa": "",
-      "courses": []
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "AWS Deployment products",
-      "level": "Master",
       "keywords": [
         "Elastic Beanstalk",
         "CodeCommit",
-        "CodeDeploy",
         "CodePipeline"
       ]
     },
     {
       "name": "AWS basic products",
-      "level": "Master",
       "keywords": [
         "EC2 Linux",
         "VPC",
@@ -92,7 +76,6 @@
     },
     {
       "name": "Web Development",
-      "level": "Intermediate",
       "keywords": [
         "NodeJs, Express",
         "Python, Flask"
@@ -100,28 +83,22 @@
     },
     {
       "name": "Docker",
-      "level": "Intermediate ",
       "keywords": [
         "https://hub.docker.com/u/hongpham12/"
       ]
     },
     {
       "name": "Git",
-      "level": "Master ",
       "keywords": [
         "https://github.com/hongpham?tab=repositories"
       ]
     },
     {
       "name": "Programming",
-      "level": "Intermediate",
       "keywords": [
         "Python",
         "Bash"
       ]
     }
-  ],
-  "languages": [],
-  "interests": [],
-  "references": []
+  ]
 }
